@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://ujn9rthhdkfwhcp6:3UVNXFOtO8ZwjTNApTH1@bz7yeukdbeye36nappf0-mysql.services.clever-cloud.com:3306/bz7yeukdbeye36nappf0?useSSL=false&serverTimezone=UTC
-    username: ujn9rthhdkfwhcp6
-    password: 3UVNXFOtO8ZwjTNApTH1
+    url:
+    username:
+    password:
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
