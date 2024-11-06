@@ -9,6 +9,7 @@ This is a  train ticket booking API built with Spring Boot, using Hibernate, JPA
 - **Seat Availability Check**: Provides available seats for booking or cancellation based on source and destination. 📊
 - **PNR Generation**: A unique PNR number is generated for each booking. 📑
 - **Real-Time Updates**: Updates the status of bookings and cancellations in the database. 🔄
+- **Telegram Bot Integration**: A Telegram bot for seamless communication to check bookings, cancellations, and clear tickets directly. 🤖
 
 ## Tech Stack 🧰
 
